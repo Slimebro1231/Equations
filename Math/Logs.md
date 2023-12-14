@@ -45,4 +45,4 @@ $$x^{-n} = \frac{1}{x^n}$$
 
 $$x^{\frac{a}{b}} = \sqrt[b]{x^a}$$
 
-$$x^{ab} = (x^a)$$
+$$x^{ab} = (x^a)^b$$
