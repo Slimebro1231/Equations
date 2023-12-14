@@ -29,7 +29,7 @@ $$log_b(b^x)=x$$
 
 $$log_b(a) = \frac{log(a)}{log(b)}$$
 
->remember the "bigger" number is on top
+>remember the "larger" looking number is on top
 
 <center>Special Cases</center>
 
