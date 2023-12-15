@@ -31,6 +31,12 @@ $$log_b(a) = \frac{log(a)}{log(b)}$$
 
 >remember the "larger" looking number is on top
 
+<center>More logs</center>
+
+$$log_a(\frac{1}{n}) = -log_a(n)=log_{\frac{1}{a}}(n)$$
+
+$$log_a(b)log_b(c)=log_a(c)$$
+
 <center>Special Cases</center>
 
 $$b^{log_bx} = x$$
