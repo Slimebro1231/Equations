@@ -46,3 +46,15 @@ $$x^{-n} = \frac{1}{x^n}$$
 $$x^{\frac{a}{b}} = \sqrt[b]{x^a}$$
 
 $$x^{ab} = (x^a)^b$$
+
+<center> Half life, Double life and interest </center>
+
+$$Population' = Population*(\frac{1}{2})^{\frac{time}{halflife}}$$
+
+>replace the $\frac{1}{2}$ with 2 for double life
+
+$$n=compound \space frequency/year$$
+
+$$r = annual \space interest$$
+
+$$Balance=Deposit*(1+\frac{r}{n})^{nt}$$
